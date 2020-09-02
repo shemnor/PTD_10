@@ -1,0 +1,13 @@
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.csprojAssemblyReference.cache
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.Form1.resources
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.Properties.Resources.resources
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.csproj.GenerateResource.cache
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.csproj.CoreCompileInputs.cache
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Debug\PTD_10.exe.config
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Debug\PTD_10.exe
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Debug\PTD_10.pdb
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.exe
+C:\Users\SZCZ1360\source\repos\PTD_10\ObjDir\2017i\PTD_10\PTD_10.pdb
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Release\PTD_10.exe.config
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Release\PTD_10.exe
+C:\Users\SZCZ1360\source\repos\PTD_10\PTD_10\bin\Release\PTD_10.pdb
