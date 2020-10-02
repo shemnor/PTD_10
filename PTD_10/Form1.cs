@@ -138,16 +138,14 @@ namespace PTD_10
 
             //check if TS is open
             Model Model = new Model();
-            /*
             if (!Model.GetConnectionStatus())
             {
                 lbl_info.Text = "Cannot detect Tekla Model";
                 return;
             }
-            */
 
             //get selected bars
-            List<TSM.ModelObject> usrObjects = Helpers.getMdlObjectsFromSelection(typeof(Reinforcement),typeof(TSM.Beam));
+            List<TSM.ModelObject> usrObjects = Helpers.getMdlObjectsFromSelection(typeof(Reinforcement),typeof(TSM.Beam), typeof(TSM.ContourPlate));
 
             //check if any selected
             if (usrObjects == null)
@@ -184,7 +182,7 @@ namespace PTD_10
             }
 
             //get selected bars and couplers
-            List<TSM.ModelObject> usrObjects = Helpers.getMdlObjectsFromSelection(typeof(TSM.Reinforcement), typeof(TSM.Beam));
+            List<TSM.ModelObject> usrObjects = Helpers.getMdlObjectsFromSelection(typeof(TSM.Reinforcement), typeof(TSM.Beam), typeof(TSM.ContourPlate));
 
             //check if any selected
             if (usrObjects == null)
